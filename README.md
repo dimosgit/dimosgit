@@ -43,14 +43,10 @@
 
 ---
 
-### GitHub signals
-![Profile Views](https://komarev.com/ghpvc/?username=dimosgit&label=Profile%20views&color=0e75b6&style=flat)
-
-![Dimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimosgit&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimosgit&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dimosgit)
+### Work visibility
+- Most day-to-day execution happens in private client/company repositories.
+- Public GitHub is used to share selected projects, experiments, and implementation notes.
+- For deeper context, see my writing and project breakdowns on [dimouzunov.com](https://dimouzunov.com).
 
 ---
 
